@@ -1,0 +1,8 @@
+﻿FriendlyName: SmartStore.NET Web Interface
+SystemName: SmartStore.WebInterface
+Version: 3.0.0.0
+MinAppVersion: 3.0.0.0
+Author: Yim Samaune
+DisplayOrder: 1
+FileName: SmartStore.WebInterface.dll
+ResourceRootKey: Plugins.SmartStore.WebInterface
